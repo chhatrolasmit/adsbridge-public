@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-28 18:45",
+  "updated": "2026-10-28 19:36",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -39,6 +39,55 @@
         "gu": "ખેત હિસાબ",
         "hi": "खेत हिसाब",
         "en": "Khet Hisab"
+      },
+      "contact": {
+        "whatsapp": "",
+        "email": "vavetra.in@gmail.com",
+        "link": "",
+        "message": {
+          "gu": "",
+          "hi": "",
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "vavetra-vavetra-mandi",
+      "company": "Vavetra",
+      "domain": "agriculture",
+      "name": "Vavetra Mandi",
+      "package": "com.vavetra.mandi",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi",
+      "path": "vavetra/vavetra-mandi",
+      "levels": [
+        "district",
+        "state",
+        "all"
+      ],
+      "pricing": {
+        "district": {
+          "exclusive": 299,
+          "shared": 199
+        },
+        "state": {
+          "exclusive": 499,
+          "shared": 399
+        },
+        "all": {
+          "exclusive": 999,
+          "shared": 799
+        },
+        "maxShared": 3,
+        "discounts": {
+          "3": 0.1,
+          "6": 0.15,
+          "12": 0.25
+        }
+      },
+      "promoText": {
+        "gu": "",
+        "hi": "",
+        "en": ""
       },
       "contact": {
         "whatsapp": "",
