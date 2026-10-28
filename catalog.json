@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-28 18:44",
+  "updated": "2026-10-28 18:45",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -36,9 +36,9 @@
         }
       },
       "promoText": {
-        "gu": "",
-        "hi": "",
-        "en": ""
+        "gu": "ખેત હિસાબ",
+        "hi": "खेत हिसाब",
+        "en": "Khet Hisab"
       },
       "contact": {
         "whatsapp": "",
