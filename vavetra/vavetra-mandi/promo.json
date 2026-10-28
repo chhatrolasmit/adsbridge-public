@@ -1,0 +1,28 @@
+{
+  "v": 1,
+  "product": "vavetra-vavetra-mandi",
+  "updated": "2026-10-28 19:36",
+  "sponsors": [],
+  "apps": [
+    {
+      "name": "Khet Hisab",
+      "pkg": "com.smitchhatrola.khethisab",
+      "show": true,
+      "text": {
+        "gu": "ખેત હિસાબ",
+        "hi": "खेत हिसाब",
+        "en": "Khet Hisab"
+      }
+    }
+  ],
+  "contact": {
+    "whatsapp": "",
+    "email": "vavetra.in@gmail.com",
+    "link": "",
+    "message": {
+      "gu": "",
+      "hi": "",
+      "en": ""
+    }
+  }
+}
