@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-10-29 17:03",
+  "updated": "2026-10-29 19:44",
   "sponsors": [
     {
       "id": "vavetra-khet-hisab-gj-20261029-md7",
@@ -21,6 +21,7 @@
       },
       "whatsapp": "918128061456",
       "phone": "+918128061456",
+      "image": "https://raw.githubusercontent.com/chhatrolasmit/adsbridge-public/main/media/202610/e53cf354-b9e.jpg",
       "from": "2026-10-29",
       "until": "2026-11-28"
     }
@@ -34,7 +35,8 @@
         "gu": "વાવેત્રા યાર્ડ",
         "hi": "वावेत्रा यार्ड",
         "en": "Vavetra Yard"
-      }
+      },
+      "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi"
     }
   ],
   "contact": {
@@ -46,5 +48,8 @@
       "hi": "",
       "en": ""
     }
+  },
+  "company": {
+    "name": "Vavetra"
   }
 }
