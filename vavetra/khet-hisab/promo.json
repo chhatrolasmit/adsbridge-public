@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-10-29 19:44",
+  "updated": "2026-10-29 20:34",
   "sponsors": [
     {
       "id": "vavetra-khet-hisab-gj-20261029-md7",
@@ -50,6 +50,14 @@
     }
   },
   "company": {
-    "name": "Vavetra"
+    "name": "Vavetra",
+    "instagram": "https://www.instagram.com/vavetra_india?exln=MXhyemM2cTB3Z2trOQ==",
+    "instagramGu": "https://www.instagram.com/vavetra_gujarat?dlrf=MXAwNGRsNXk5YWg3Yg==",
+    "youtube": "https://youtu.be/gfpfyQ-phQc",
+    "share": {
+      "gu": "ખેડૂત મિત્રો સાથે શેર કરો",
+      "hi": "किसान भाइयों के साथ शेयर करें",
+      "en": "Share with Fellow Farmers"
+    }
   }
 }
