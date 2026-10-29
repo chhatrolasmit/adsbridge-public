@@ -108,8 +108,9 @@ function iconHtml(p, cls = "ic") {
 function adHtml(name, text) {
   const title = (name || "").trim() || t("adName");
   return `<div class="ad"><span class="av">${esc(title.charAt(0).toUpperCase())}</span><div class="t"><div class="h"><span class="lbl">${esc(t("adLbl"))}</span>` +
-    `<b>${esc(title)}</b></div><span class="d">${esc((text || "").trim() || t("adText"))}</span></div>` +
-    `<i class="wa">${ICON_CHAT}</i><i class="call">${ICON_CALL}</i><i class="map">${ICON_MAP}</i></div>`;
+    `<b>${esc(title)}</b></div></div>` +
+    `<i class="wa">${ICON_CHAT}</i><i class="call">${ICON_CALL}</i><i class="map">${ICON_MAP}</i>` +
+    `<span class="d">${esc((text || "").trim() || t("adText"))}</span></div>`;
 }
 
 // ---------- paint ----------
