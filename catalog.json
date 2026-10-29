@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29 16:08",
+  "updated": "2026-10-29 16:10",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -132,9 +132,9 @@
         }
       },
       "promoText": {
-        "gu": "વેપારી ના બિલ સહેલાઈ થી બને",
-        "hi": "कस्टमर के बिल आसानी से बनो",
-        "en": "easy to make customer bills"
+        "gu": "મણ હિસાબ",
+        "hi": "मण हिसाब",
+        "en": "Man Hisab"
       },
       "contact": {
         "whatsapp": "8128061456",
