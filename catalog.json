@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29 16:10",
+  "updated": "2026-10-29 16:42",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -49,7 +49,10 @@
           "hi": "",
           "en": ""
         }
-      }
+      },
+      "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
+      "downloads": 100,
+      "dailyUsers": 30
     },
     {
       "id": "vavetra-vavetra-mandi",
@@ -98,7 +101,10 @@
           "hi": "",
           "en": ""
         }
-      }
+      },
+      "icon": "",
+      "downloads": 0,
+      "dailyUsers": 0
     },
     {
       "id": "others-man-hisab",
@@ -145,7 +151,10 @@
           "hi": "",
           "en": ""
         }
-      }
+      },
+      "icon": "",
+      "downloads": 0,
+      "dailyUsers": 0
     }
   ]
 }
