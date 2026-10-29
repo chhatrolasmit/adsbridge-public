@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-vavetra-mandi",
-  "updated": "2026-10-29 17:22",
+  "updated": "2026-10-29 17:23",
   "sponsors": [
     {
       "id": "vavetra-vavetra-mandi-gj-20261029-5cs",
@@ -17,10 +17,11 @@
       "text": {
         "gu": "ખેતીના ખર્ચ, આવક અને હિસાબનું સંચાલન કરો સરળતાથી. 🌾 આજે જ ખેત હિસાબ એપ ડાઉનલોડ કરો!",
         "hi": "खेती के खर्च, आमदनी और हिसाब-किताब को आसानी से मैनेज करें। 🌾 आज ही खेत हिसाब ऐप डाउनलोड करें!",
-        "en": ""
+        "en": "Easily manage your farming expenses, income, and records. 🌾 Download Khet Hisab today!"
       },
       "whatsapp": "918128061456",
       "phone": "+918128061456",
+      "link": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab",
       "from": "2026-10-29",
       "until": "2026-11-28"
     }
