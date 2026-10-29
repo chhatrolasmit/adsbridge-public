@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-vavetra-mandi",
-  "updated": "2026-10-29 18:32",
+  "updated": "2026-10-29 20:34",
   "sponsors": [
     {
       "id": "vavetra-vavetra-mandi-gj-20261029-5cs",
@@ -36,7 +36,9 @@
         "gu": "ખેત હિસાબ",
         "hi": "खेत हिसाब",
         "en": "Khet Hisab"
-      }
+      },
+      "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab"
     }
   ],
   "contact": {
@@ -47,6 +49,17 @@
       "gu": "",
       "hi": "",
       "en": ""
+    }
+  },
+  "company": {
+    "name": "Vavetra",
+    "instagram": "https://www.instagram.com/vavetra_india?exln=MXhyemM2cTB3Z2trOQ==",
+    "instagramGu": "https://www.instagram.com/vavetra_gujarat?dlrf=MXAwNGRsNXk5YWg3Yg==",
+    "youtube": "https://youtu.be/gfpfyQ-phQc",
+    "share": {
+      "gu": "ખેડૂત મિત્રો સાથે શેર કરો",
+      "hi": "किसान भाइयों के साथ शेयर करें",
+      "en": "Share with Fellow Farmers"
     }
   }
 }
