@@ -1,8 +1,51 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-10-29 10:38",
-  "sponsors": [],
+  "updated": "2026-10-29 10:46",
+  "sponsors": [
+    {
+      "id": "vavetra-khet-hisab-all-20261028-tpi",
+      "states": [
+        "ALL"
+      ],
+      "plan": "shared",
+      "name": {
+        "gu": "Man Hisab",
+        "hi": "",
+        "en": ""
+      },
+      "text": {
+        "gu": "Download : Man Hisab",
+        "hi": "",
+        "en": ""
+      },
+      "whatsapp": "918128061456",
+      "phone": "+918128061456",
+      "link": "https://play.google.com/store/apps/details?id=com.manhisab.app",
+      "from": "2026-10-27",
+      "until": "2026-11-26"
+    },
+    {
+      "id": "vavetra-khet-hisab-gj-20261028-o63",
+      "states": [
+        "GJ"
+      ],
+      "plan": "shared",
+      "name": {
+        "gu": "ખેત હિસાબ - સ્પોનસર",
+        "hi": "",
+        "en": ""
+      },
+      "text": {
+        "gu": "અત્યારે જ download કરો",
+        "hi": "",
+        "en": ""
+      },
+      "link": "https://adsbridge.schhatrola779.workers.dev/",
+      "from": "2026-10-28",
+      "until": "2026-11-27"
+    }
+  ],
   "apps": [
     {
       "name": "Vavetra Mandi",
