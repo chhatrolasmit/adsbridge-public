@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29 16:03",
+  "updated": "2026-10-29 16:08",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -85,9 +85,9 @@
         }
       },
       "promoText": {
-        "gu": "",
-        "hi": "",
-        "en": ""
+        "gu": "વાવેત્રા યાર્ડ",
+        "hi": "वावेत्रा यार्ड",
+        "en": "Vavetra Yard"
       },
       "contact": {
         "whatsapp": "",
