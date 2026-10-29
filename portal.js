@@ -7,6 +7,7 @@ const $ = id => document.getElementById(id);
 // ---------- texts added for this page (merged into core.js I18N) ----------
 Object.entries({
   gu: {
+    btnCall: "ફોન", btnMap: "રસ્તો",
     book2: "બુક કરો", bookFirst: "પહેલાં વિકલ્પ પસંદ કરો", checking: "તપાસાય છે…",
     checkedNow: "ભાવ અને જગ્યા હમણાં જ તપાસ્યાં", checkedAgo: "ભાવ %d મિનિટ પહેલાં તપાસ્યા", recheck: "ફરી તપાસો",
     staleWarn: "ભાવ જૂના થઈ ગયા હશે", dateMoved: "તારીખ જૂની થઈ ગઈ હતી – આજથી કરી દીધી",
@@ -29,6 +30,7 @@ Object.entries({
     speak: "બોલીને લખો", listening: "સાંભળે છે… બોલો", micFail: "બોલીને લખવાનું ચાલ્યું નહીં – હાથે લખો",
   },
   hi: {
+    btnCall: "फ़ोन", btnMap: "रास्ता",
     book2: "बुक करें", bookFirst: "पहले विकल्प चुनें", checking: "जाँच हो रही है…",
     checkedNow: "कीमत और जगह अभी जाँची", checkedAgo: "कीमत %d मिनट पहले जाँची", recheck: "फिर से जाँचें",
     staleWarn: "कीमत पुरानी हो गई होगी", dateMoved: "तारीख पुरानी हो गई थी – आज से कर दी",
@@ -51,6 +53,7 @@ Object.entries({
     speak: "बोलकर लिखें", listening: "सुन रहा है… बोलिए", micFail: "बोलकर लिखना नहीं चला – हाथ से लिखें",
   },
   en: {
+    btnCall: "Call", btnMap: "Directions",
     book2: "Book now", bookFirst: "Choose a plan first", checking: "Checking…",
     checkedNow: "Price and availability just checked", checkedAgo: "Price checked %d min ago", recheck: "Check again",
     staleWarn: "Prices may be out of date", dateMoved: "The start date had passed – moved to today",
@@ -107,10 +110,10 @@ function iconHtml(p, cls = "ic") {
 /** The ad banner as the apps show it. */
 function adHtml(name, text) {
   const title = (name || "").trim() || t("adName");
-  return `<div class="ad"><span class="av">${esc(title.charAt(0).toUpperCase())}</span><div class="t"><div class="h"><span class="lbl">${esc(t("adLbl"))}</span>` +
-    `<b>${esc(title)}</b></div></div>` +
-    `<i class="wa">${ICON_CHAT}</i><i class="call">${ICON_CALL}</i><i class="map">${ICON_MAP}</i>` +
-    `<span class="d">${esc((text || "").trim() || t("adText"))}</span></div>`;
+  return `<div class="ad"><div class="hd"><span class="av">${esc(title.charAt(0).toUpperCase())}</span><div class="t">` +
+    `<b>${esc(title)}</b><span class="d">${esc((text || "").trim() || t("adText"))}</span></div></div>` +
+    `<div class="ft"><span class="lbl">${esc(t("adLbl"))}</span><span class="sp"></span>` +
+    `<i class="wa" title="WhatsApp">${ICON_CHAT}</i><i class="call" title="${esc(t("btnCall"))}">${ICON_CALL}</i><i class="map" title="${esc(t("btnMap"))}">${ICON_MAP}</i></div></div>`;
 }
 
 // ---------- paint ----------
