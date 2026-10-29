@@ -1,8 +1,31 @@
 {
   "v": 1,
   "product": "vavetra-vavetra-mandi",
-  "updated": "2026-10-29 10:38",
-  "sponsors": [],
+  "updated": "2026-10-29 10:46",
+  "sponsors": [
+    {
+      "id": "vavetra-vavetra-mandi-gj-20261027-hce",
+      "states": [
+        "GJ"
+      ],
+      "plan": "exclusive",
+      "name": {
+        "gu": "ખેત હિસાબ",
+        "hi": "",
+        "en": ""
+      },
+      "text": {
+        "gu": "ખેતી ના હિસાબ માટે અત્યારેજ ડાઉનલોડ કરો",
+        "hi": "",
+        "en": ""
+      },
+      "whatsapp": "918128061456",
+      "phone": "+918128061456",
+      "link": "https://adsbridge.schhatrola779.workers.dev/",
+      "from": "2026-10-27",
+      "until": "2026-11-26"
+    }
+  ],
   "apps": [
     {
       "name": "Khet Hisab",
