@@ -1,8 +1,30 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-10-29 16:41",
-  "sponsors": [],
+  "updated": "2026-10-29 17:03",
+  "sponsors": [
+    {
+      "id": "vavetra-khet-hisab-gj-20261029-md7",
+      "states": [
+        "GJ"
+      ],
+      "plan": "exclusive",
+      "name": {
+        "gu": "વાવેત્રા યાર્ડ – APMC બજારભાવ",
+        "hi": "वावेतरा यार्ड – APMC मंडी भाव",
+        "en": "Vavetra Yard – APMC Market Prices"
+      },
+      "text": {
+        "gu": "ભારતના વિવિધ APMC યાર્ડના પાકના તાજા બજારભાવની માહિતી મેળવો એક જ એપમાં. 🌾 આજે જ વાવેત્રા યાર્ડ એપ ડાઉનલોડ કરો!",
+        "hi": "भारत की विभिन्न APMC मंडियों में फसलों के ताज़ा बाजार भाव की जानकारी पाएं एक ही ऐप में। 🌾 आज ही वावेतरा यार्ड ऐप डाउनलो",
+        "en": "Get crop market price updates from APMC mandis across India, all in one app. 🌾 Download Vavetra Yard today!"
+      },
+      "whatsapp": "918128061456",
+      "phone": "+918128061456",
+      "from": "2026-10-29",
+      "until": "2026-11-28"
+    }
+  ],
   "apps": [
     {
       "name": "Vavetra Mandi",
