@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-29 10:46",
+  "updated": "2026-10-29 16:00",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -92,6 +92,53 @@
       "contact": {
         "whatsapp": "",
         "email": "vavetra.in@gmail.com",
+        "link": "",
+        "message": {
+          "gu": "",
+          "hi": "",
+          "en": ""
+        }
+      }
+    },
+    {
+      "id": "others-man-hisab",
+      "company": "Others",
+      "domain": "બિઝનેસ",
+      "name": "Man Hisab",
+      "package": "com.manhisab.app",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.manhisab.app",
+      "path": "others/man-hisab",
+      "levels": [
+        "state"
+      ],
+      "pricing": {
+        "district": {
+          "exclusive": 2000,
+          "shared": 800
+        },
+        "state": {
+          "exclusive": 999,
+          "shared": 699
+        },
+        "all": {
+          "exclusive": 100000,
+          "shared": 40000
+        },
+        "maxShared": 3,
+        "discounts": {
+          "3": 0.1,
+          "6": 0.15,
+          "12": 0.25
+        }
+      },
+      "promoText": {
+        "gu": "વેપારી ના બિલ સહેલાઈ થી બને",
+        "hi": "कस्टमर के बिल आसानी से बनो",
+        "en": "easy to make customer bills"
+      },
+      "contact": {
+        "whatsapp": "8128061456",
+        "email": "",
         "link": "",
         "message": {
           "gu": "",
