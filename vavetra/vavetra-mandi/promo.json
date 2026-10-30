@@ -1,22 +1,9 @@
 {
   "v": 1,
   "product": "vavetra-vavetra-mandi",
-  "updated": "2026-10-30 09:45",
+  "updated": "2026-10-30 16:12",
   "sponsors": [],
-  "apps": [
-    {
-      "name": "Khet Hisab",
-      "pkg": "com.smitchhatrola.khethisab",
-      "show": true,
-      "text": {
-        "gu": "ખેત હિસાબ",
-        "hi": "खेत हिसाब",
-        "en": "Khet Hisab"
-      },
-      "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab"
-    }
-  ],
+  "apps": [],
   "contact": {
     "whatsapp": "",
     "email": "vavetra.in@gmail.com",
