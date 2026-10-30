@@ -1,59 +1,8 @@
 {
   "v": 1,
-  "updated": "2026-10-30 09:13",
+  "updated": "2026-10-30 16:12",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
-    {
-      "id": "vavetra-khet-hisab",
-      "company": "Vavetra",
-      "domain": "agriculture",
-      "name": "Khet Hisab",
-      "package": "com.smitchhatrola.khethisab",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab",
-      "path": "vavetra/khet-hisab",
-      "levels": [
-        "state",
-        "all"
-      ],
-      "pricing": {
-        "district": {
-          "exclusive": 0,
-          "shared": 0
-        },
-        "state": {
-          "exclusive": 499,
-          "shared": 299
-        },
-        "all": {
-          "exclusive": 999,
-          "shared": 799
-        },
-        "maxShared": 3,
-        "discounts": {
-          "3": 0.1,
-          "6": 0.15,
-          "12": 0.25
-        }
-      },
-      "promoText": {
-        "gu": "ખેત હિસાબ",
-        "hi": "खेत हिसाब",
-        "en": "Khet Hisab"
-      },
-      "contact": {
-        "whatsapp": "",
-        "email": "vavetra.in@gmail.com",
-        "link": "",
-        "message": {
-          "gu": "",
-          "hi": "",
-          "en": ""
-        }
-      },
-      "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
-      "downloads": 100,
-      "dailyUsers": 30
-    },
     {
       "id": "others-man-hisab",
       "company": "Others",
