@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-10-30 02:25",
+  "updated": "2026-10-30 09:13",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -53,58 +53,6 @@
       "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
       "downloads": 100,
       "dailyUsers": 30
-    },
-    {
-      "id": "vavetra-vavetra-mandi",
-      "company": "Vavetra",
-      "domain": "agriculture",
-      "name": "Vavetra Mandi",
-      "package": "com.vavetra.mandi",
-      "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi",
-      "path": "vavetra/vavetra-mandi",
-      "levels": [
-        "district",
-        "state",
-        "all"
-      ],
-      "pricing": {
-        "district": {
-          "exclusive": 299,
-          "shared": 199
-        },
-        "state": {
-          "exclusive": 499,
-          "shared": 399
-        },
-        "all": {
-          "exclusive": 999,
-          "shared": 799
-        },
-        "maxShared": 3,
-        "discounts": {
-          "3": 0.1,
-          "6": 0.15,
-          "12": 0.25
-        }
-      },
-      "promoText": {
-        "gu": "વાવેત્રા યાર્ડ",
-        "hi": "वावेत्रा यार्ड",
-        "en": "Vavetra Yard"
-      },
-      "contact": {
-        "whatsapp": "",
-        "email": "vavetra.in@gmail.com",
-        "link": "",
-        "message": {
-          "gu": "",
-          "hi": "",
-          "en": ""
-        }
-      },
-      "icon": "",
-      "downloads": 0,
-      "dailyUsers": 0
     },
     {
       "id": "others-man-hisab",
