@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-11-02 15:07",
+  "updated": "2026-11-02 15:19",
   "sponsors": [],
   "apps": [
     {
@@ -13,6 +13,7 @@
         "hi": "वावेत्रा यार्ड",
         "en": "Vavetra Yard"
       },
+      "icon": "https://play-lh.googleusercontent.com/p77wopsGl-oubdqFYdkGiJpk-M4ZmeDnM7GaWMOSi50C35DWNwK-o0AbNYQgDD3T6MkRLN5nBuzqMjYeqVz3JGc=w480-h960-rw",
       "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi"
     }
   ],
