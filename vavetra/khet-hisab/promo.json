@@ -1,11 +1,11 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-11-02 15:19",
+  "updated": "2026-11-02 16:22",
   "sponsors": [],
   "apps": [
     {
-      "name": "Vavetra Mandi",
+      "name": "Vavetra Yard",
       "pkg": "com.vavetra.mandi",
       "show": true,
       "text": {
