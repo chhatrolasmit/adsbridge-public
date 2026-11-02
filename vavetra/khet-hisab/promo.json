@@ -1,9 +1,21 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-11-02 15:06",
+  "updated": "2026-11-02 15:07",
   "sponsors": [],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Vavetra Mandi",
+      "pkg": "com.vavetra.mandi",
+      "show": true,
+      "text": {
+        "gu": "વાવેત્રા યાર્ડ",
+        "hi": "वावेत्रा यार्ड",
+        "en": "Vavetra Yard"
+      },
+      "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi"
+    }
+  ],
   "contact": {
     "whatsapp": "",
     "email": "vavetra.in@gmail.com",
