@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-02 15:19",
+  "updated": "2026-11-02 16:22",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -58,7 +58,7 @@
       "id": "vavetra-vavetra-mandi",
       "company": "Vavetra",
       "domain": "agriculture",
-      "name": "Vavetra Mandi",
+      "name": "Vavetra Yard",
       "package": "com.vavetra.mandi",
       "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi",
       "path": "vavetra/vavetra-mandi",
