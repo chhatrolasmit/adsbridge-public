@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-khet-hisab",
-  "updated": "2026-11-03 10:15",
+  "updated": "2026-11-03 11:42",
   "sponsors": [],
   "apps": [
     {
@@ -25,7 +25,7 @@
         "hi": "मण हिसाब",
         "en": "Man Hisab"
       },
-      "icon": "https://play-lh.googleusercontent.com/txorXGPzJjcCUEHmB9MvAfRbYDMrILFYv-f3YomhB7653e0zhJSzvb8j6qLRy91USbHAPUtLAx2rxmy4u_9Gnc4=w480-h960-rw",
+      "icon": "https://play-lh.googleusercontent.com/463gFDu9VL_WSSxAOuH4s-9_k4BV7MxK6tv4E4HXKDRBivTLLzK19as7Gl6DrB1lYyv6f07_PvAZRvQFDKYe7w=w480-h960-rw",
       "playUrl": "https://play.google.com/store/apps/details?id=com.manhisab.app"
     }
   ],
