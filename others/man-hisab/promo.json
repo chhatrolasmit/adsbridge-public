@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "others-man-hisab",
-  "updated": "2026-11-03 02:54",
+  "updated": "2026-11-03 10:15",
   "sponsors": [
     {
       "id": "others-man-hisab-all-20261102-rwe",
@@ -23,7 +23,32 @@
       "until": "2026-12-01"
     }
   ],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Khet Hisab",
+      "pkg": "com.smitchhatrola.khethisab",
+      "show": true,
+      "text": {
+        "gu": "ખેત હિસાબ",
+        "hi": "खेत हिसाब",
+        "en": "Khet Hisab"
+      },
+      "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab"
+    },
+    {
+      "name": "Vavetra Yard",
+      "pkg": "com.vavetra.mandi",
+      "show": true,
+      "text": {
+        "gu": "વાવેત્રા યાર્ડ",
+        "hi": "वावेत्रा यार्ड",
+        "en": "Vavetra Yard"
+      },
+      "icon": "https://play-lh.googleusercontent.com/p77wopsGl-oubdqFYdkGiJpk-M4ZmeDnM7GaWMOSi50C35DWNwK-o0AbNYQgDD3T6MkRLN5nBuzqMjYeqVz3JGc=w480-h960-rw",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.vavetra.mandi"
+    }
+  ],
   "contact": {
     "whatsapp": "",
     "email": "vavetra.in@gmail.com",
@@ -35,7 +60,14 @@
     }
   },
   "company": {
-    "name": "Others",
-    "instagram": "https://www.instagram.com/vavetra_india?exln=MXhyemM2cTB3Z2trOQ=="
+    "name": "Vavetra",
+    "instagram": "https://www.instagram.com/vavetra_india?exln=MXhyemM2cTB3Z2trOQ==",
+    "instagramGu": "https://www.instagram.com/vavetra_gujarat?dlrf=MXAwNGRsNXk5YWg3Yg==",
+    "youtube": "https://www.youtube.com/@vavetra_india",
+    "share": {
+      "gu": "ખેડૂત મિત્રો સાથે શેર કરો",
+      "hi": "किसान भाइयों के साथ शेयर करें",
+      "en": "Share with Fellow Farmers"
+    }
   }
 }
