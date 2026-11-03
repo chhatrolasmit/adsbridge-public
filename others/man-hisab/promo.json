@@ -1,28 +1,8 @@
 {
   "v": 1,
   "product": "others-man-hisab",
-  "updated": "2026-11-03 10:15",
-  "sponsors": [
-    {
-      "id": "others-man-hisab-all-20261102-rwe",
-      "states": [
-        "ALL"
-      ],
-      "plan": "exclusive",
-      "name": {
-        "gu": "ખેત હિસાબ",
-        "hi": "",
-        "en": ""
-      },
-      "text": {
-        "gu": "download",
-        "hi": "",
-        "en": ""
-      },
-      "from": "2026-11-02",
-      "until": "2026-12-01"
-    }
-  ],
+  "updated": "2026-11-03 10:30",
+  "sponsors": [],
   "apps": [
     {
       "name": "Khet Hisab",
