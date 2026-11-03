@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-03 02:54",
+  "updated": "2026-11-03 10:15",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "id": "others-man-hisab",
-      "company": "Others",
+      "company": "Vavetra",
       "domain": "બિઝનેસ",
       "name": "Man Hisab",
       "package": "com.manhisab.app",
