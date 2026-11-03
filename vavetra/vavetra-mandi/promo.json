@@ -1,7 +1,7 @@
 {
   "v": 1,
   "product": "vavetra-vavetra-mandi",
-  "updated": "2026-11-03 02:54",
+  "updated": "2026-11-03 10:15",
   "sponsors": [],
   "apps": [
     {
@@ -15,6 +15,18 @@
       },
       "icon": "https://lh3.googleusercontent.com/x-X1rG7QswxzqdO_Bit2PU6lccVysFCQPSQ-5Y74DXc5B72bu7PM0UYV0LZ1SHaHX_Ej4AWoYRubVNSjd_ODtA",
       "playUrl": "https://play.google.com/store/apps/details?id=com.smitchhatrola.khethisab"
+    },
+    {
+      "name": "Man Hisab",
+      "pkg": "com.manhisab.app",
+      "show": true,
+      "text": {
+        "gu": "મણ હિસાબ",
+        "hi": "मण हिसाब",
+        "en": "Man Hisab"
+      },
+      "icon": "https://play-lh.googleusercontent.com/txorXGPzJjcCUEHmB9MvAfRbYDMrILFYv-f3YomhB7653e0zhJSzvb8j6qLRy91USbHAPUtLAx2rxmy4u_9Gnc4=w480-h960-rw",
+      "playUrl": "https://play.google.com/store/apps/details?id=com.manhisab.app"
     }
   ],
   "contact": {
