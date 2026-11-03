@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-03 10:15",
+  "updated": "2026-11-03 11:42",
   "requestUrl": "https://script.google.com/macros/s/AKfycbxbbNSkvvVNiGzhSo5zs7z9feBfU8b9CA8cHVPWq7OKjE88W_Uk55guS3MeFLdDoDf3/exec",
   "products": [
     {
@@ -127,8 +127,8 @@
           "shared": 699
         },
         "all": {
-          "exclusive": 100000,
-          "shared": 40000
+          "exclusive": 899,
+          "shared": 599
         },
         "maxShared": 3,
         "discounts": {
@@ -152,8 +152,8 @@
           "en": ""
         }
       },
-      "icon": "https://play-lh.googleusercontent.com/txorXGPzJjcCUEHmB9MvAfRbYDMrILFYv-f3YomhB7653e0zhJSzvb8j6qLRy91USbHAPUtLAx2rxmy4u_9Gnc4=w480-h960-rw",
-      "downloads": 30,
+      "icon": "https://play-lh.googleusercontent.com/463gFDu9VL_WSSxAOuH4s-9_k4BV7MxK6tv4E4HXKDRBivTLLzK19as7Gl6DrB1lYyv6f07_PvAZRvQFDKYe7w=w480-h960-rw",
+      "downloads": 10,
       "dailyUsers": 10
     }
   ]
